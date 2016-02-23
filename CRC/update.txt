@@ -1,0 +1,19 @@
+July 1, 2006 	add features of CRC. 
+	    	modified LINUX and WINDOWS executables.
+		add SUN and MAC executables.
+
+July 3. 2006    slightly modificed the manual and 
+		the manuscript.
+
+October 13 2006 slighty modificed the manual and added the tutorial
+		in the document section.
+
+October 15 2006 source code is added to the download page.
+
+October 15 2006 web server hosted at He lab went live.
+
+March 09 2007 a new version is posted with some known bugs fixed, the main 
+bug affect when you disable inversion option, and max shift is greater than 0.
+
+March 09 2007 new web server with lots of update and a new tutorial is 
+now available.

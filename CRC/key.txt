@@ -1,0 +1,16 @@
+we feel that CRC provide some unique advantages and additional functions over other model-based clustering 
+methods. The improvements are summarized as follows: 
+
+1.	Cluster genes showing non-synexpression correlation patterns (time-shifted and/or inverted) together 
+in the same group. This feature potentially allows more functionally related genes to be recognized.
+2.	Provide accurate estimation of number of clusters. Sometimes such knowledge can be quite useful. For 
+example, in the yeast galactose data example, CRC is able to accurately estimate the number of GO functional 
+categories. 
+3.	Automatically andle missing data during clustering. No preprocessing elimination or 
+imputation step is needed.
+4.	Provide multiple strength measurements for each cluster produced, including tightness measure and 
+stability measure. Such information can help investigators to generate high quality hypotheses and identify 
+significant clusters to perform follow up studies.   
+
+We believe these advantages make CRC a highly competitive choice among all the clustering tools for analyzing 
+complex microarray gene expression data. 

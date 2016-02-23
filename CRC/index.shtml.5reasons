@@ -1,0 +1,105 @@
+<HTML>
+<HEAD>
+  <TITLE>CRC</TITLE>
+  <STYLE TYPE="text/css">@IMPORT URL("../styleCSG.css");</STYLE>
+</HEAD>
+<BODY>
+<!--#include file="banner.inc" -->
+<!--#include file="top.inc" -->
+<!--#include file="submenu.inc" -->
+<!--#include file="topend.inc" -->
+<P><CENTER><TABLE CELLSPACING="0" BORDER="0" CELLPADDING="10" WIDTH="100%">
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" ROWSPAN="10">
+    &nbsp;</TD> 
+    <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H1><CENTER>CRC</CENTER></H1>
+    <H3><CENTER><FONT size="+2">C</FONT>hinese <FONT size="+2">R</FONT>estaurant <FONT 
+size="+2">C</FONT>luster</CENTER></H3>
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+	CRC implements a model-based Bayesian clustering algorithm. The cluster assignment procedure can 
+be regarded as following a iterative Chinese restaurant process. This program is designed to cluster 
+microarray gene expression data collected from multiple experiments. missing data is allowed. The program 
+is wrote in C++, and can be run under Linux, Unix, Windows, MAC OSX operating system as a command line 
+exexutable. 
+
+CRC has the following features comparing to other clustering 
+tools: 1) able to infer number of clusters, 2) able to cluster genes displaying time-shifted and/or inverted 
+correlations, 3) able to tolerate missing genotype data and 4) provide confidence measure for clusters 
+generated. Here is some more <A href="key.txt">details</A> on why you should try CRC for your 
+microarray data analysis. 
+	</TD>  
+  </TR>
+  <TR>
+     
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="getProg.shtml">Download program</A></TD> 
+    <TD VALIGN="TOP" WIDTH="75%">
+    Download the latest version of the programs. [February, 2006]
+    </TD>
+  </TR>
+
+  <TR>
+     
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="documents.shtml">Documentation</A></TD> 
+    <TD VALIGN="TOP" WIDTH="75%">
+    Includes the manual and a manuscript.
+    </TD>
+  </TR>
+
+  <TR>
+     
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="clust.suppl.revise.pdf">Supplementary Text</A></TD> 
+    <TD VALIGN="TOP" WIDTH="75%">
+    Sample files used in our study.</TD>
+  </TR>
+  <TR>
+    
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="result.txt">Gene List</A></TD>
+    <TD VALIGN="TOP" WIDTH="75%">
+    B. anthracis cluster results.</TD>
+  </TR>
+  <TR>
+    
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="figures.doc">Trace Plots</A></TD>
+    <TD VALIGN="TOP" WIDTH="75%">
+    B. anthracis cluster patterns.</TD>
+  </TR>
+
+  <TR>
+     
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="update.shtml"></A>Update & Bug Log</TD> 
+    <TD VALIGN="TOP" WIDTH="75%">
+    Log of updates, bugs and fixes. Also has the previous versions of the program</TD>
+  </TR>
+
+  <TR>
+     
+    <TD VALIGN="TOP" WIDTH="20%">
+    <P ALIGN=RIGHT><A HREF="javascript:regpopup('CRC')">Register</A></TD> 
+    <TD VALIGN="TOP" WIDTH="75%">
+    If you use CRC, please register with us. It helps us to send you updates and bug-fixes.
+    </TD>
+  </TR>
+  <TR><TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>   
+  <TD COLSPAN="2" VALIGN="TOP" WIDTH="95%">
+    <H3> Contact </H3>
+	For bug report, questions or comments, please contact Steve Qin (qin@umich.edu).
+    </TD>
+  </TR>
+</TABLE>
+</CENTER>
+
+<!--#include file="bottom.inc"-->
+
+</BODY>
+</HTML>
